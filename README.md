@@ -8,3 +8,5 @@ This repository contains notebooks that provides fashion ai stylist that recomme
 
 ## Usage
 To run the application, use Jupyter notebook to run the application
+
+Wach the video to see the demo of the application: https://youtu.be/5zNEIBHcNnc
